@@ -1,0 +1,10 @@
+.vscode
+build
+dist
+img
+nbproject
+test
+build.xml
+manifest.mf
+*.form
+!spec/*.form
